@@ -32,7 +32,7 @@ Check it out here: [https://yourusername.github.io/your-repo-name](https://youru
 
 2. Open the project folder:
 
-cd your-repo-name
+   cd your-repo-name
 
 3. Launch the site by opening index.html in your browser.
 
